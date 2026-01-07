@@ -1,0 +1,20 @@
+This project focuses on cleaning and analysing a real-world medical dataset that contains missing values, inconsistent formats, and duplicate records. 
+The dataset was first imported into MySQL and then processed using Python to improve data quality and extract meaningful insights.
+Using Pandas and NumPy, the data was cleaned and prepared for analysis. 
+Exploratory Data Analysis (EDA) was performed to understand trends and patterns. Visualisations were created using Matplotlib and Seaborn to clearly present the findings.
+
+This project demonstrates practical skills in data cleaning, analysis, and visualisation using industry-relevant tools.
+
+Tools & Technologies
+MySQL
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+
+Key Highlights
+Worked with a real-world, messy medical dataset
+Cleaned and transformed data for accurate analysis
+Performed exploratory data analysis (EDA)
+Built clear and meaningful visualisations
